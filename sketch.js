@@ -95,7 +95,7 @@ function draw() {
     smooth();
 
     //OrbitalControl
-      orbitControl(1,1,1);
+      //orbitControl(1,1,1);
   
     //Mterrain - Properties of terrain
       scale(6);
