@@ -119,7 +119,7 @@ function draw() {
         roverPosition = roverPosition + 0.4;
       }
       //Mars rover - GIF
-      texture(rover);
+      //texture(rover);
       noStroke();
       translate(0, 0, roverPosition);
       plane(20, 16);
